@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=773AF7&background=9989C8F4&center=true&vCenter=true&width=435&lines=my+first+ever+project;2-player+fighting+game" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=2000&color=773AF7&background=7D63C811&center=true&vCenter=true&width=435&lines=my+first+ever+project;2-player+fighting+game" alt="Typing SVG" /></a>
 </div>
 
 ### So, what?
