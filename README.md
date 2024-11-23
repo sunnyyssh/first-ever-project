@@ -18,8 +18,10 @@ All collisions are **hard-coded**. (Actually the word 'hard' also means how I wa
 Every button is also just picture and a check of coordinate of mouse press. <br/>
 For my proud, window resize doesn't crash the drawing, all coordinates are recalculated.
 
+**more fun:** Open [`Игра.pas`](Игра.pas) file and find out how it works, especially **how the state is stored** (tremendous amount of globals), how the **game logic** is implemented (many times nested if else) and so on.
+
 ### What is it for me?
 These 1921 lines of code were first steps in my nowaday developer's journey. <br/> I made a lot of mistakes, which I learned from. <br/> And the important thing I've realized is that the only things that matter are **studying** and **desire to create**. 
 
 ### How to run?
-Find a valid [Pascal ABC](https://pascalabc.net/ssyilki-dlya-skachivaniya) compiler and run `main.pas` file idc 
+Find a valid [Pascal ABC](https://pascalabc.net/ssyilki-dlya-skachivaniya) compiler and run `Игра.pas` file idc 
