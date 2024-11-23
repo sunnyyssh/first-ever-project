@@ -6,8 +6,8 @@
 ![](docs/screen-record.gif)
 
 ### I wanna share you
-I was **15 y.o.** and I was inspired by idea of creating **my own game**. 
-<br/> The only thing I knew were **Pascal ABC** and pure **math**.
+I was **15 y.o.** and I was inspired by the idea of creating **my own game**. 
+<br/> The only things I knew were **Pascal ABC** and pure **math**.
 <br/> Pascal was my first language because of informatics lessons in school.
 
 So, I found out how to create simple algorithms, how to draw an image on the screen and I thought **that was enough** to create a whole game.
